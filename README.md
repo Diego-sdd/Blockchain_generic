@@ -22,6 +22,6 @@ $ yarn
 # Run this command to init
 $ yarn start
 ```
-Api routes
-1 - http://localhost:8000/v1/mine_block
-2 - http://localhost:8000/v1/get_chain
+**Api routes**
+**1 - http://localhost:8000/v1/mine_block**
+**2 - http://localhost:8000/v1/get_chain**
