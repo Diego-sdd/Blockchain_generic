@@ -22,24 +22,6 @@ $ yarn
 # Run this command to init
 $ yarn start
 ```
-
-## 🤔 How to contribute
-
-**Follow the steps below**
-
-```bash
-# Create your feature branch
-$ git checkout -b feature/my-feature develop
-
-# Make the commit with your changes
-$ git commit -m 'feat: My new feature'
-
-# Send the code to remote branch
-$ git push origin feature/my-feature
-```
-
-After your pull request is merged, you can delete your branch
-
----
-
-Made with 💜 by [Cataki ](https://cataki.org) 👋
+Api routes
+1 - http://localhost:8000/v1/mine_block
+2 - http://localhost:8000/v1/get_chain
