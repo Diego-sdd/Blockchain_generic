@@ -23,5 +23,7 @@ $ yarn
 $ yarn start
 ```
 **Api routes**
+</br>
 **1 - http://localhost:8000/v1/mine_block**
+</br>
 **2 - http://localhost:8000/v1/get_chain**
