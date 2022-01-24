@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>
 </p>
 
 </br>
